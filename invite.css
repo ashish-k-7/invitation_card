@@ -1,0 +1,30 @@
+body {
+    overflow-x: hidden;
+}
+
+.rect {
+    height: 300px;
+    width: 700px;
+    margin: 200px 20px 20px 400px ;
+    background-color:rgb(222, 215, 215);
+    outline-style: solid;
+    outline-color: grey;
+}
+
+.pic img {
+    height: 250px;
+    width: 200px;
+    position: relative;
+    top: -295px;
+    left: 430px;
+    outline-style: solid;
+    outline-color: grey;
+}
+
+.details {
+    font-family: arial;
+    position: relative;
+    bottom: 550px;
+    left: 700px;
+}
+
